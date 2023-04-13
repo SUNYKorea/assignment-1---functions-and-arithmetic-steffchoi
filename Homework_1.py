@@ -1,6 +1,8 @@
 # Name: Stephanie Choi
 # SBUID: 115343881
-
+##################### SCORE ######################
+####### Score:  10/10  -> please use the test provided by professor instead of having your own inputs 
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
